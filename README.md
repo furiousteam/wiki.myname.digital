@@ -18,7 +18,7 @@
 
 
 
-## Details
+## MyName.Digital | WeTaap
 
 Read more 👉 [Documentation - MkDocs Material Boilerplate]
 
