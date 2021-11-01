@@ -1,11 +1,11 @@
 # Project information
-site_name: "Wiki.MyName.Digital | WeTaap app"
+site_name: "Wiki.MyName.Digital"
 site_description: "Eco Friendly Digital Business Card with built-in NFC technology."
-site_author: "peaceiris"
+site_author: "furiousteam"
 site_url: "https://wiki.myname.digital"
 
 # Copyright
-copyright: "&copy; 2019 peaceiris"
+copyright: "&copy; 2021 FuriousTeam"
 
 # Repository
 repo_name: "GitHub"
