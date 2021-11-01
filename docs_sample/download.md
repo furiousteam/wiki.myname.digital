@@ -1,6 +1,9 @@
 ### **App Store** <a name="app-store"></a>
 
-- [Download from the Apple App Store](https://apps.apple.com/us/app/whatsapp-messenger/id1565355733)
+- [Download from the Apple App Store](https://apps.apple.com/us/app/wetaap/id1565355733)
+
+[![Download from the Apple App Store](https://myname.digital/assets/img/icon/app-store.png)](https://apps.apple.com/us/app/wetaap/id1565355733)
+
 
 ### **Required iOS version** <a name="download"></a>
 
