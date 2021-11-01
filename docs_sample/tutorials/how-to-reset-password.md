@@ -8,4 +8,12 @@ If you used the Sign-Up / Sign-In with Apple you won't need to remember your pas
 
 - Launch the WeTaap app and select **Sign into an existing account**
 
-![Sign into an existing account](../images/tutorials/reset-password/reset-password-1.jpg.jpg)
+![Sign into an existing account](../images/tutorials/reset-password/reset-password-1.jpg)
+
+- Then tap the **Forgot Password?** button
+
+![Tap Forgot Password?](../images/tutorials/reset-password/reset-password-2.jpg)
+
+- Enter the email address you used to register your account
+
+![Tap Forgot Password?](../images/tutorials/reset-password/reset-password-3.jpg)
