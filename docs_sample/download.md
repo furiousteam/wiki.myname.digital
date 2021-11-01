@@ -1,11 +1,10 @@
-### **Download** <a name="download"></a>
+### **App Store** <a name="app-store"></a>
+
+- [Download from the Apple App Store](https://apps.apple.com/us/app/whatsapp-messenger/id1565355733)
+
+### **Required iOS version** <a name="download"></a>
 
 WeTaap is currently available only on iOS and require iOS 15 minimum.
-
-
-- [Privacy Policy](https://myname.digital/terms/privacy-policy)
-- [Terms & Conditions](https://myname.digital/terms/terms-and-conditions)
-- [End-User Licence Agreement](https://myname.digital/terms/eula)
 
 ### **Compatible Phones** <a name="compatible-phones"></a>
 
