@@ -48,9 +48,16 @@ inv serve --config-file mkdocs-sample.yml
 [Official Wiki : wiki.myname.digital]: https://wiki.myname.digital
 
 
-## About FuriousTeam
+## About WeTaap
 
 WeTaap is powered by FuriousTeam & ITSKINS
 
 - [FuriousTeam Homepage](https://peaceiris.com/)
 - [ITSKINS Homepage](https://itskins.com/)
+
+## Terms & Conditions
+
+- [Privacy Policy](https://myname.digital/terms/privacy-policy)
+- [Terms & Conditions](https://myname.digital/terms/terms-and-conditions)
+- [End-User Licence Agreement](https://myname.digital/terms/eula)
+- [example website](https://example.com){target="_blank"}
