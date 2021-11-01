@@ -21,23 +21,11 @@
 
 This website is dedicated to provide support for the WeTaap mobile app.
 
-Read more 👉 [Documentation - MkDocs Material Boilerplate]
-
-[Documentation - MkDocs Material Boilerplate]: https://peaceiris.github.io/mkdocs-material-boilerplate/
-
-
-
 ## Quick start
 
-```sh
-git clone https://github.com/peaceiris/mkdocs-material-boilerplate.git
-cd mkdocs-material-boilerplate
-pipenv sync --dev
-pipenv shell
-inv serve --config-file mkdocs-sample.yml
+```test
+test
 ```
-
-
 
 ## Links
 
@@ -46,7 +34,6 @@ inv serve --config-file mkdocs-sample.yml
 
 [Official Website : myname.digital]: https://myname.digital
 [Official Wiki : wiki.myname.digital]: https://wiki.myname.digital
-
 
 ## About WeTaap
 
@@ -60,8 +47,5 @@ WeTaap is powered by FuriousTeam & ITSKINS
 - [Privacy Policy](https://myname.digital/terms/privacy-policy)
 - [Terms & Conditions](https://myname.digital/terms/terms-and-conditions)
 - [End-User Licence Agreement](https://myname.digital/terms/eula)
-- [example website](https://example.com){target="_blank"}
-- <a href="http://example.com/" target="_blank">example</a>
-- [link](http://example.com/){:target="_blank"}
 
 [![Everything you want to know about #cryptocurrency BLOC.MONEY (BLOC) in this 5 minutes #video. See why BLOC is set to #disrupt the #mobile #industry.](images/WHAT-IS-BLOC-YOUTUBE.jpg)](https://www.youtube.com/watch?v=uQekepZesE0)
