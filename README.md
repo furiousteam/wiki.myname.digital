@@ -61,3 +61,4 @@ WeTaap is powered by FuriousTeam & ITSKINS
 - [Terms & Conditions](https://myname.digital/terms/terms-and-conditions)
 - [End-User Licence Agreement](https://myname.digital/terms/eula)
 - [example website](https://example.com){target="_blank"}
+- <a href="http://example.com/" target="_blank">example</a>
