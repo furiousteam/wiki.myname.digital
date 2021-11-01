@@ -6,7 +6,7 @@
 
 ### **Required iOS version** <a name="download"></a>
 
-WeTaap is currently available only on iOS and require iOS 15 minimum.
+WeTaap is currently available only on iOS and require **iOS 15 minimum**.
 
 ### **Compatible Phones** <a name="compatible-phones"></a>
 
