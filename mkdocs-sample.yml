@@ -85,4 +85,3 @@ nav:
       - "MathJax": "extensions/mathjax.md"
       - "Code Hilite": "extensions/code-hilite.md"
       - "Footnote": "extensions/footnote.md"
-  - "License": "license.md"
