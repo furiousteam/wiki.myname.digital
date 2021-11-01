@@ -63,3 +63,5 @@ WeTaap is powered by FuriousTeam & ITSKINS
 - [example website](https://example.com){target="_blank"}
 - <a href="http://example.com/" target="_blank">example</a>
 - [link](http://example.com/){:target="_blank"}
+
+[![Everything you want to know about #cryptocurrency BLOC.MONEY (BLOC) in this 5 minutes #video. See why BLOC is set to #disrupt the #mobile #industry.](images/WHAT-IS-BLOC-YOUTUBE.jpg)](https://www.youtube.com/watch?v=uQekepZesE0)
