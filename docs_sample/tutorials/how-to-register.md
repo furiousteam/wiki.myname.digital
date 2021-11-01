@@ -16,10 +16,10 @@ Using this option you will have to enter your email address and create your own 
 
 ![Register Email](../images/tutorials/register/email/register-email.jpg)
 
-1. Choose your username. This username is only for your account and has nothing to do with futures profiles you might create.
-2. Enter your email address
-3. Enter your password
-4. Tap the Continue button. You should see the following message:
+- Choose your username. This username is only for your account and has nothing to do with futures profiles you might create.
+- Enter your email address
+- Enter your password
+- Tap the Continue button. You should see the following message:
 
 ![Confirm Email](../images/tutorials/register/email/confirm-email.jpg)
 
