@@ -19,6 +19,8 @@
 
 ## MyName.Digital | WeTaap
 
+This website is dedicated to provide support for the WeTaap mobile app.
+
 Read more 👉 [Documentation - MkDocs Material Boilerplate]
 
 [Documentation - MkDocs Material Boilerplate]: https://peaceiris.github.io/mkdocs-material-boilerplate/
@@ -39,11 +41,10 @@ inv serve --config-file mkdocs-sample.yml
 
 ## Links
 
-- [mkdocs/mkdocs: Project documentation with Markdown - GitHub]
-- [squidfunk/mkdocs-material: A Material Design theme for MkDocs]
+- [mkdocs/mkdocs: Project documentation with Markdown - GitHub]: https://github.com/mkdocs/mkdocs/
+- [squidfunk/mkdocs-material: A Material Design theme for MkDocs]: https://github.com/squidfunk/mkdocs-material
 
-[mkdocs/mkdocs: Project documentation with Markdown - GitHub]: https://github.com/mkdocs/mkdocs/
-[squidfunk/mkdocs-material: A Material Design theme for MkDocs]: https://github.com/squidfunk/mkdocs-material
+
 
 
 
