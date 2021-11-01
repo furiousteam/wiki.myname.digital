@@ -36,6 +36,7 @@ WeTaap is powered by FuriousTeam & ITSKINS
 - [Terms & Conditions](https://myname.digital/terms/terms-and-conditions)
 - [End-User Licence Agreement](https://myname.digital/terms/eula)
 
+## Licence & Release Status
 
 [![license](https://img.shields.io/github/license/furiousteam/wiki.myname.digital.svg)](https://github.com/furiousteam/wiki.myname.digital/blob/main/LICENSE)
 [![release](https://img.shields.io/github/release/furiousteam/wiki.myname.digital.svg)](https://github.com/furiousteam/wiki.myname.digital/releases/latest)
@@ -46,4 +47,6 @@ WeTaap is powered by FuriousTeam & ITSKINS
 
 <!-- https://shields.io/ -->
 
-[![Everything you want to know about #cryptocurrency BLOC.MONEY (BLOC) in this 5 minutes #video. See why BLOC is set to #disrupt the #mobile #industry.](images/WHAT-IS-BLOC-YOUTUBE.jpg)](https://www.youtube.com/watch?v=uQekepZesE0)
+## Video
+
+[![Coming Soon.](images/WHAT-IS-BLOC-YOUTUBE.jpg)](https://www.youtube.com/watch?v=uQekepZesE0)
