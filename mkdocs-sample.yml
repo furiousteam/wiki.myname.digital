@@ -72,3 +72,5 @@ nav:
   - "Tutorials":
       - "How to register": "tutorials/how-to-register.md"
       - "How to sign-into your account": "tutorials/how-to-sign-in.md"
+      - "How to reset your password": "tutorials/how-to-reset-password.md"
+      
