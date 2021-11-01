@@ -41,10 +41,11 @@ inv serve --config-file mkdocs-sample.yml
 
 ## Links
 
-- [mkdocs/mkdocs: Project documentation with Markdown - GitHub]: https://github.com/mkdocs/mkdocs/
-- [squidfunk/mkdocs-material: A Material Design theme for MkDocs]: https://github.com/squidfunk/mkdocs-material
+- [myname.digital: Official Website]
+- [wiki.myname.digital: Official Wiki]
 
-
+[myname.digital: Official Website]: https://myname.digital
+[wiki.myname.digital: Official Wiki]: https://wiki.myname.digital
 
 
 
