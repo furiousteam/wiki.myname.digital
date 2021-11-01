@@ -1,16 +1,16 @@
 # Project information
-site_name: "MyName.Digital | WeTaap app"
-site_description: "MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions."
+site_name: "Wiki.MyName.Digital | WeTaap app"
+site_description: "Eco Friendly Digital Business Card with built-in NFC technology."
 site_author: "peaceiris"
-site_url: "https://mkdocs.peaceiris.com/"
+site_url: "https://wiki.myname.digital"
 
 # Copyright
 copyright: "&copy; 2019 peaceiris"
 
 # Repository
 repo_name: "GitHub"
-repo_url: "https://github.com/peaceiris/mkdocs-material-boilerplate"
-edit_uri: "https://github.com/peaceiris/mkdocs-material-boilerplate/edit/main/docs_sample"
+repo_url: "https://github.com/furiousteam/wiki.myname.digital"
+edit_uri: "https://github.com/furiousteam/wiki.myname.digital/edit/main/docs_sample"
 
 # Configuration
 docs_dir: "docs_sample"
@@ -60,9 +60,9 @@ extra:
   manifest: "manifest.json"
   social:
     - icon: "fontawesome/brands/github-alt"
-      link: "https://github.com/peaceiris"
+      link: "https://github.com/furiousteam"
     - icon: "fontawesome/brands/twitter"
-      link: "https://twitter.com/piris314en"
+      link: "https://twitter.com/furiousteam"
 
 # Page tree
 nav:
