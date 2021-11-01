@@ -1,12 +1,12 @@
+### **Required iOS version** <a name="download"></a>
+
+WeTaap is currently available only on iOS and require **iOS 15 minimum**.
+
 ### **App Store** <a name="app-store"></a>
 
 - [Download from the Apple App Store](https://apps.apple.com/us/app/wetaap/id1565355733)
 
 [![Download from the Apple App Store](../images/download/app-store.png)](https://apps.apple.com/app/wetaap/id1565355733)
-
-### **Required iOS version** <a name="download"></a>
-
-WeTaap is currently available only on iOS and require **iOS 15 minimum**.
 
 ### **Compatible Phones** <a name="compatible-phones"></a>
 
