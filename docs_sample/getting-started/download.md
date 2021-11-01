@@ -4,6 +4,8 @@
 
 [![Download from the Apple App Store](images/download/app-store.png)](https://apps.apple.com/app/wetaap/id1565355733)
 
+[![Download from the Apple App Store](../images/download/app-store.png)](https://apps.apple.com/app/wetaap/id1565355733)
+
 ### **Required iOS version** <a name="download"></a>
 
 WeTaap is currently available only on iOS and require **iOS 15 minimum**.
