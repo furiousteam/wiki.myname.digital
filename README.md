@@ -6,10 +6,10 @@
 ![Eyecatch image of MkDocs Material Boilerplate (Starter Kit)](https://raw.githubusercontent.com/peaceiris/mkdocs-material-boilerplate/main/docs_sample/images/material.png)
 
 
-[![license](https://img.shields.io/github/license/peaceiris/mkdocs-material-boilerplate.svg)](https://github.com/furiousteam/wiki.myname.digital/blob/main/LICENSE)
-[![release](https://img.shields.io/github/release/peaceiris/mkdocs-material-boilerplate.svg)](https://github.com/furiousteam/wiki.myname.digital/releases/latest)
-[![GitHub release date](https://img.shields.io/github/release-date/peaceiris/mkdocs-material-boilerplate.svg)](https://github.com/furiousteam/wiki.myname.digital/releases)
-[![GitHub Actions status](https://github.com/peaceiris/mkdocs-material-boilerplate/workflows/github%20pages/badge.svg)](https://github.com/furiousteam/wiki.myname.digital/actions)
+[![license](https://img.shields.io/github/license/furiousteam/wiki.myname.digital.svg)](https://github.com/furiousteam/wiki.myname.digital/blob/main/LICENSE)
+[![release](https://img.shields.io/github/release/furiousteam/wiki.myname.digital.svg)](https://github.com/furiousteam/wiki.myname.digital/releases/latest)
+[![GitHub release date](https://img.shields.io/github/release-date/furiousteam/wiki.myname.digital.svg)](https://github.com/furiousteam/wiki.myname.digital/releases)
+[![GitHub Actions status](https://github.com/furiousteam/wiki.myname.digital/workflows/github%20pages/badge.svg)](https://github.com/furiousteam/wiki.myname.digital/actions)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6eea5dbc-d2ce-44da-9a6a-cbe05b785e37/deploy-status)](https://app.netlify.com/sites/gifted-poincare-c9654e/deploys)
 
