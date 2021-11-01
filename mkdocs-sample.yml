@@ -67,6 +67,7 @@ extra:
 # Page tree
 nav:
   - "Home": "index.md"
+  - "Download": "download.md"
   - "Material for MkDocs": "material-for-mkdocs.md"
   - "Getting started":
       - "Download boilerplate": "getting-started/download-boilerplate.md"
