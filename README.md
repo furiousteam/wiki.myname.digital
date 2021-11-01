@@ -7,7 +7,7 @@
 
 
 
-[![license](https://img.shields.io/github/license/peaceiris/mkdocs-material-boilerplate.svg)](hhttps://github.com/furiousteam/wiki.myname.digital/blob/main/LICENSE)
+[![license](https://img.shields.io/github/license/peaceiris/mkdocs-material-boilerplate.svg)](https://github.com/furiousteam/wiki.myname.digital/blob/main/LICENSE)
 [![release](https://img.shields.io/github/release/peaceiris/mkdocs-material-boilerplate.svg)](https://github.com/furiousteam/wiki.myname.digital/releases/latest)
 [![GitHub release date](https://img.shields.io/github/release-date/peaceiris/mkdocs-material-boilerplate.svg)](https://github.com/furiousteam/wiki.myname.digital/releases)
 [![GitHub Actions status](https://github.com/peaceiris/mkdocs-material-boilerplate/workflows/github%20pages/badge.svg)](https://github.com/furiousteam/wiki.myname.digital/actions)
