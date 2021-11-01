@@ -7,7 +7,8 @@ There is currently two ways to register on the WeTaap app:
 
 ### **Screenshot** <a name="screenshots"></a>
 ![Register](../images/tutorials/register/register.jpg)
-<img src="../images/tutorials/register/register.jpg" alt="Register" height="300">
+<img src="images/tutorials/register/register.jpg" alt="Register" height="300">
+<img src="/images/tutorials/register/register.jpg" alt="Register" height="300">
 
 ### **Register with your Email address** <a name="register-with-email"></a>
 Register with E-mail
