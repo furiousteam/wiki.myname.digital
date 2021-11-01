@@ -44,8 +44,8 @@ inv serve --config-file mkdocs-sample.yml
 - [Official Website : myname.digital]
 - [Official Wiki : wiki.myname.digital]
 
-[myname.digital: Official Website]: https://myname.digital
-[wiki.myname.digital: Official Wiki]: https://wiki.myname.digital
+[Official Website : myname.digital]: https://myname.digital
+[Official Wiki : wiki.myname.digital]: https://wiki.myname.digital
 
 
 
