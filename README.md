@@ -5,18 +5,6 @@
 
 ![Eyecatch image of MkDocs Material Boilerplate (Starter Kit)](https://raw.githubusercontent.com/peaceiris/mkdocs-material-boilerplate/main/docs_sample/images/material.png)
 
-
-[![license](https://img.shields.io/github/license/furiousteam/wiki.myname.digital.svg)](https://github.com/furiousteam/wiki.myname.digital/blob/main/LICENSE)
-[![release](https://img.shields.io/github/release/furiousteam/wiki.myname.digital.svg)](https://github.com/furiousteam/wiki.myname.digital/releases/latest)
-[![GitHub release date](https://img.shields.io/github/release-date/furiousteam/wiki.myname.digital.svg)](https://github.com/furiousteam/wiki.myname.digital/releases)
-[![GitHub Actions status](https://github.com/furiousteam/wiki.myname.digital/workflows/github%20pages/badge.svg)](https://github.com/furiousteam/wiki.myname.digital/actions)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6eea5dbc-d2ce-44da-9a6a-cbe05b785e37/deploy-status)](https://app.netlify.com/sites/gifted-poincare-c9654e/deploys)
-
-<!-- https://shields.io/ -->
-
-
-
 ## MyName.Digital | WeTaap
 
 This website is dedicated to provide support for the WeTaap mobile app.
@@ -47,5 +35,15 @@ WeTaap is powered by FuriousTeam & ITSKINS
 - [Privacy Policy](https://myname.digital/terms/privacy-policy)
 - [Terms & Conditions](https://myname.digital/terms/terms-and-conditions)
 - [End-User Licence Agreement](https://myname.digital/terms/eula)
+
+
+[![license](https://img.shields.io/github/license/furiousteam/wiki.myname.digital.svg)](https://github.com/furiousteam/wiki.myname.digital/blob/main/LICENSE)
+[![release](https://img.shields.io/github/release/furiousteam/wiki.myname.digital.svg)](https://github.com/furiousteam/wiki.myname.digital/releases/latest)
+[![GitHub release date](https://img.shields.io/github/release-date/furiousteam/wiki.myname.digital.svg)](https://github.com/furiousteam/wiki.myname.digital/releases)
+[![GitHub Actions status](https://github.com/furiousteam/wiki.myname.digital/workflows/github%20pages/badge.svg)](https://github.com/furiousteam/wiki.myname.digital/actions)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6eea5dbc-d2ce-44da-9a6a-cbe05b785e37/deploy-status)](https://app.netlify.com/sites/gifted-poincare-c9654e/deploys)
+
+<!-- https://shields.io/ -->
 
 [![Everything you want to know about #cryptocurrency BLOC.MONEY (BLOC) in this 5 minutes #video. See why BLOC is set to #disrupt the #mobile #industry.](images/WHAT-IS-BLOC-YOUTUBE.jpg)](https://www.youtube.com/watch?v=uQekepZesE0)
