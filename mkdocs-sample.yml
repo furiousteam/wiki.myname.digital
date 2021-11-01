@@ -68,4 +68,4 @@ extra:
 nav:
   - "Home": "index.md"
   - "Getting started":
-      - "download": "getting-started/download.md"
+      - "Download": "getting-started/download.md"
