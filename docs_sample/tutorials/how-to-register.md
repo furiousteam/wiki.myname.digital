@@ -3,7 +3,7 @@
 There is currently two ways to register on the WeTaap app:
 
 - [Register with your email address and create your password](../tutorials/how-to-register.md#register-with-email)
-- [Register using your Apple ID](../tutorials/how-to-register.md#register-with-apple-id)
+- [Register using your Apple ID](../tutorials/how-to-register.md#register-with-apple-id). (No need to create a password)
 
 ### **Screenshot** <a name="screenshots"></a>
 ![Register](../images/tutorials/register/register.jpg)
@@ -19,7 +19,7 @@ Using this option you will have to enter your email address and create your own 
 - Choose your username. This username is only for your account and has nothing to do with futures profiles you might create.
 - Enter your email address
 - Enter your password
-- Tap the Continue button. You should see the following message:
+- Tap the **Continue** button. You should see the following message:
 
 ![Confirm Email](../images/tutorials/register/email/confirm-email.jpg)
 
@@ -32,7 +32,6 @@ Using this option you will have to enter your email address and create your own 
 ![Email Verified](../images/tutorials/register/email/email-verified.jpg)
 
 You can now login with your email address and password using the **Sign into an existing account** button
-
 
 ### **2 - Register with your Apple ID** <a name="register-with-apple-id"></a>
 Register with Apple ID
