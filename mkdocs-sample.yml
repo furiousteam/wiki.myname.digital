@@ -69,3 +69,5 @@ nav:
   - "Home": "index.md"
   - "Getting started":
       - "Download": "getting-started/download.md"
+  - "Tutorials:"
+      - "How to register": "tutorials/how-to-register.md"
