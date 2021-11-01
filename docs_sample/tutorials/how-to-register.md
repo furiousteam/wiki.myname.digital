@@ -11,8 +11,8 @@ There is currently two ways to register on the WeTaap app:
 ### **1 - Register with your Email address** <a name="register-with-email"></a>
 Using this option you will have to enter your email address and create your own password to use with the WeTaap app.
 
-1. Tap **Register a new account**
-2. On the next screen :
+- Tap **Register a new account**
+- On the next screen :
 
 ![Register Email](../images/tutorials/register/email/register-email.jpg)
 
@@ -23,11 +23,11 @@ Using this option you will have to enter your email address and create your own 
 
 ![Confirm Email](../images/tutorials/register/email/confirm-email.jpg)
 
-3. Now go to your mail box and click the **Confirm my email address** button.
+- Now go to your mail box and click the **Confirm my email address** button. If you do not see the email make sure to check in the SPAM folder and allow myname.digital has trusted sender so you can be sure to receive our emails next time.
 
 ![Check Email](../images/tutorials/register/email/check-mail.jpg)
 
-4. You will be redirected to the myname.digital website and you should see a message that says your email has been verified.
+- You will be redirected to the myname.digital website and you should see a message that says your email has been verified.
 
 ![Email Verified](../images/tutorials/register/email/email-verified.jpg)
 
