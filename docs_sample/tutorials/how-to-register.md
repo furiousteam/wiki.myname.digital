@@ -1,12 +1,12 @@
 ### **Register on WeTaap** <a name="register"></a>
 
-There is currently two way to register on the WeTaap app:
+There is currently two ways to register on the WeTaap app:
 
 - [Register with your email address and create your password](../tutorials/how-to-register.md#register-with-email)
 - [Register using your Apple ID](../tutorials/how-to-register.md#register-with-apple-id)
 
 ### **Screenshot** <a name="screenshots"></a>
-![Register](../images/tutorials/register/register.jpg)
+![Register](../images/tutorials/register/register.jpg =200x)
 
 ### **Register with your Email address** <a name="register-with-email"></a>
 Register with E-mail
