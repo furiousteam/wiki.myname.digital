@@ -11,11 +11,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://wiki.myname.digital/license/</loc>
-         <lastmod>2021-11-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://wiki.myname.digital/material-for-mkdocs/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
