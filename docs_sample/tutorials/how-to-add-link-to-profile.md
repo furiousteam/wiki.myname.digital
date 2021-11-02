@@ -35,6 +35,12 @@ Once you have signed into your account and you already have created at least one
 
 ### **Save Link** <a name="link-added"></a>
 
-**#7**- The link has now be added to your profile. If you Tap the icon you can test the action.
+**#7**- The link has now be added to your profile.
 
 ![Select a profile](../images/tutorials/add-links/add-links-6.jpg)
+
+### **Test Link** <a name="test-added"></a>
+
+**#7**- Click on the icon of the link to test the action. In that exemple we are tapping the **Call** icon and the action is doing requesting to do a phone call. The link has been successfully added, tested and working.
+
+![Select a profile](../images/tutorials/add-links/add-links-7.jpg)
