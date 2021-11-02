@@ -24,6 +24,7 @@ Here you can edit your profile details such as :
 - Edit the short description of your profile. Maximum 300 characters
 
 **#3**- Your profile is by default set to private. If you want to make your profile public please select **Public Profile**
+
 **#4**- Once your are done editing your profile details, tap the **Update profile** button
 
 ![Edit a profile details](../images/tutorials/edit-profile/edit-profile-3.jpg)
