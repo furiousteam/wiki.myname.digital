@@ -12,7 +12,7 @@ Once you have created a link you can edit the content or delete it.
 
 **#2**- Select the link you want to edit and keep pressing (2 seconds) on the icon to load the options available.
 
-![Edit a link](../images/tutorials/edit-links/edit-link-2.jpg)
+![Edit a link](../images/tutorials/edit-link/edit-link-2.jpg)
 
 ### **Link Options** <a name="link-options"></a>
 
@@ -23,7 +23,7 @@ There is different options for each link as follow:
 **#5**- Tap the **Delete** button to delete this link from your profile
 **#6**- Tap the **Cancel** button to return to your profile details
 
-![Edit a link](../images/tutorials/edit-links/edit-link-4.jpg)
+![Edit a link](../images/tutorials/edit-link/edit-link-4.jpg)
 
 ### **Edit Link Content** <a name="edit-link-content"></a>
 
