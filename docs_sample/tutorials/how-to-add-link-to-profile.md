@@ -29,6 +29,7 @@ Once you have signed into your account and you already have created at least one
 ### **Preview Link** <a name="enter-link-preview"></a>
 
 **#5**- When entering the link you can see the preview of it. Make sure it is correct.
+
 **#6**- Once you are done. Tap the **Save Link** button
 
 ![Select a profile](../images/tutorials/add-links/add-links-5.jpg)
