@@ -18,7 +18,7 @@ Once you have created a link you can edit the content or delete it.
 
 There is different options for each link as follow:
 
-**#3**- To find out more details about **Direct Link** please click here. **(NEED TO ADD LINK)**
+**#3**- To find out more details about **Direct Link** [click here](../features/links.md#feature-direct-link).
 
 **#4**- Tap the **Edit** button to edit the content of a link. You will be redirected to the [Edit Link Details](../tutorials/how-to-edit-a-link.md#edit-link-content)
 
