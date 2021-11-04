@@ -26,7 +26,7 @@ There is different options for each link as follow:
 
 **#6**- Tap the **Cancel** button to return to your profile details
 
-![Edit a link](../images/tutorials/edit-link/edit-link-4.jpg)
+![Edit a link](../images/tutorials/edit-link/edit-link-3.jpg)
 
 ### **Edit Link Content** <a name="edit-link-content"></a>
 
@@ -35,3 +35,5 @@ There is different options for each link as follow:
 **#8**- Tap the **Save Link** button
 
 Your link content has now been successfully modified.
+
+![Edit a link](../images/tutorials/edit-link/edit-link-4.jpg)
