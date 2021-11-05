@@ -67,8 +67,11 @@ extra:
 # Page tree
 nav:
   - "Home": "index.md"
+  - "Contact us": "contact-us.md"
   - "Getting started":
       - "Download": "getting-started/download.md"
+  - "Features":
+      - "Links": "features/links.md"
   - "Tutorials":
       - "How to register": "tutorials/how-to-register.md"
       - "How to sign-into your account": "tutorials/how-to-sign-in.md"
@@ -78,6 +81,5 @@ nav:
       - "How to add links to a profile": "tutorials/how-to-add-link-to-profile.md"
       - "How to edit a link from a profile": "tutorials/how-to-edit-a-link.md"
       - "How to add a NFC device to a profile": "tutorials/how-to-link-nfc-device.md"
-  - "Features":
-      - "Links": "features/links.md"
-      
+  - "Resseller":
+      - "How to become a resseller": "resseller/become-a-resseller.md"
