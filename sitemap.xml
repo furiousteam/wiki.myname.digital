@@ -2,52 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://wiki.myname.digital/</loc>
-         <lastmod>2021-11-04</lastmod>
+         <lastmod>2021-11-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.myname.digital/features/link-nfc/</loc>
+         <lastmod>2021-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.myname.digital/features/links/</loc>
-         <lastmod>2021-11-04</lastmod>
+         <lastmod>2021-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.myname.digital/getting-started/download/</loc>
-         <lastmod>2021-11-04</lastmod>
+         <lastmod>2021-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.myname.digital/tutorials/how-to-add-link-to-profile/</loc>
-         <lastmod>2021-11-04</lastmod>
+         <lastmod>2021-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.myname.digital/tutorials/how-to-create-profile/</loc>
-         <lastmod>2021-11-04</lastmod>
+         <lastmod>2021-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.myname.digital/tutorials/how-to-edit-a-link/</loc>
-         <lastmod>2021-11-04</lastmod>
+         <lastmod>2021-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.myname.digital/tutorials/how-to-edit-a-profile/</loc>
-         <lastmod>2021-11-04</lastmod>
+         <lastmod>2021-11-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.myname.digital/tutorials/how-to-link-nfc-device/</loc>
+         <lastmod>2021-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.myname.digital/tutorials/how-to-register/</loc>
-         <lastmod>2021-11-04</lastmod>
+         <lastmod>2021-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.myname.digital/tutorials/how-to-reset-password/</loc>
-         <lastmod>2021-11-04</lastmod>
+         <lastmod>2021-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.myname.digital/tutorials/how-to-sign-in/</loc>
-         <lastmod>2021-11-04</lastmod>
+         <lastmod>2021-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
