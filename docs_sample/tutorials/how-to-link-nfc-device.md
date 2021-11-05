@@ -55,12 +55,11 @@ Then you will be redirected to your profile and it will now display the NFC Tag 
 - The serial number of your NFC Tag
 - The activation date
 
+![Edit a profile details](../images/tutorials/add-nfc/add-nfc-7.jpg)
+
 ### **UnLink a NFC device from your profile** <a name="unlink-nfc-device-from-profile"></a>
 
 If you want to unlink this NFC Tag from your profile press the **Unlink from my account** button. You will be able to link this NFC tag again when you want it.
-
-![Edit a profile details](../images/tutorials/add-nfc/add-nfc-7.jpg)
-
 
 
 
