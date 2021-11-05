@@ -67,7 +67,6 @@ extra:
 # Page tree
 nav:
   - "Home": "index.md"
-  - "Contact us": "contact-us.md"
   - "Getting started":
       - "Download": "getting-started/download.md"
   - "Features":
@@ -84,3 +83,4 @@ nav:
       - "How to add a NFC device to a profile": "tutorials/how-to-link-nfc-device.md"
   - "Resseller":
       - "How to become a resseller": "resseller/become-a-resseller.md"
+  - "Contact us": "contact-us.md"
