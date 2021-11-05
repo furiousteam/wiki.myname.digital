@@ -21,6 +21,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://wiki.myname.digital/features/pro-features/</loc>
+         <lastmod>2021-11-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://wiki.myname.digital/getting-started/download/</loc>
          <lastmod>2021-11-05</lastmod>
          <changefreq>daily</changefreq>
