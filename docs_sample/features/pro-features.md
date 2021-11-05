@@ -18,4 +18,4 @@ WeTaap is free to use. But we offer Pro-Features that might be interested for so
 
 ### **How much does it cost ?** <a name="pro-prices"></a>
 
-Pro features is available for $8.99 USD per year.
+Pro features is available for $8.99 USD per year and can be purchased only from the Apple app store.
