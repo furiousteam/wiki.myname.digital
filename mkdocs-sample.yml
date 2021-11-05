@@ -72,6 +72,7 @@ nav:
       - "Download": "getting-started/download.md"
   - "Features":
       - "Links": "features/links.md"
+      - "NFC Devices": "features/nfc-devices.md"
   - "Tutorials":
       - "How to register": "tutorials/how-to-register.md"
       - "How to sign-into your account": "tutorials/how-to-sign-in.md"
