@@ -16,7 +16,7 @@ Once you have signed into your account you will see a new menu on the top left o
 
 **#2**- This is your resseller name you provided to us when applying for resseller programm
 
-**#3**- The number of credits available on your resseller account. 1 credit = 1 NFC device activation
+**#3**- The number of credits available on your resseller account. **1 credit = 1 NFC device activation**
 
 **#4**- Select the device type you provided us to us when applying for resseller program. If you want to add more device into your resseller account simply [Contact us](../contact-us.md)
 
@@ -34,3 +34,7 @@ Once you have signed into your account you will see a new menu on the top left o
 You should see the following message to confirm the NFC Tag has been successfully activated and registed to our system. It is now ready for sale and ready to be use for your customers.
 
 ![Edit a profile details](../images/resseller/resseller-5.jpg)
+
+### **How to recharge my account** <a name="recharge-my-account"></a>
+
+To add credits into your resseller account please [Contact us](../contact-us.md)
