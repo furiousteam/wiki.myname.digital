@@ -27,6 +27,9 @@ Once you have created a profile you will be able to link a NFC device to it.
 1. If you bought an original NFC device from [WeTaap or one of our reseller](https://myname.digital/#buy-nfc-devices) the activation is FREE.
 2. If you bought a compatible NFC device not from WeTaap or not from one of our reseller the activation cost 0,99$ per device. One time only.
 
+- [Click here to find out how to activate an original WeTaap device](../tutorials/how-to-link-nfc-device.md#link-original-nfc-device)
+- [Click here to find out how to activate a non official WeTaap device](../tutorials/how-to-link-nfc-device.md#link-non-original-nfc-device)
+
 ### **Link an original WeTaap NFC device** <a name="link-original-nfc-device"></a>
 
 - Find the original NFC device and press the **Add NFC** button
