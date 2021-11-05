@@ -27,7 +27,18 @@ Once you have created a profile you will be able to link a NFC device to it.
 1. If you bought an original NFC device from [WeTaap or one of our reseller](https://myname.digital/#buy-nfc-devices) the activation is FREE.
 2. If you bought a compatible NFC device not from WeTaap or not from one of our reseller the activation cost 1.29$ per device. One time only.
 
-
 ### **Link an original WeTaap NFC device** <a name="link-original-nfc-device"></a>
 
-![Edit a profile details](../images/tutorials/add-nfc/add-nfc-3.jpg)
+- Find the original NFC device and press the **Add NFC** button
+- Hold your iPhone near the original NFC tag to read the tag
+- The best location to place the NFC is on the back top of your iPhone. On the left side of the camera sensor.
+
+![Edit a profile details](../images/tutorials/add-nfc/add-nfc-4.jpg)
+
+
+
+
+
+
+
+
