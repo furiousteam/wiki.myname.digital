@@ -25,7 +25,7 @@ Once you have created a profile you will be able to link a NFC device to it.
 2 cases apply to this features :
 
 1. If you bought an original NFC device from [WeTaap or one of our reseller](https://myname.digital/#buy-nfc-devices) the activation is FREE.
-2. If you bought a compatible NFC device not from WeTaap or not from one of our reseller the activation cost 1.29$ per device. One time only.
+2. If you bought a compatible NFC device not from WeTaap or not from one of our reseller the activation cost 0,99$ per device. One time only.
 
 ### **Link an original WeTaap NFC device** <a name="link-original-nfc-device"></a>
 
@@ -63,7 +63,7 @@ If you want to unlink this NFC Tag from your profile press the **Unlink from my 
 
 ### **Link an non original WeTaap NFC device** <a name="link-non-original-nfc-device"></a>
 
-If you bought a compatible NFC device not from WeTaap or not from one of our reseller the activation cost 1.29$ per device. One time only.
+If you bought a compatible NFC device not from WeTaap or not from one of our reseller the activation cost 0,99$ per device. One time only.
 
 - Find the NFC device and press the **Add NFC** button
 - Hold your iPhone near the original NFC tag to read the tag
@@ -71,4 +71,31 @@ If you bought a compatible NFC device not from WeTaap or not from one of our res
 
 ![Edit a profile details](../images/tutorials/add-nfc/add-nfc-4.jpg)
 
+You will see the following message:
 
+This device has not been sold by WeTaap but you can activate with a one time payment or contact your resseller.
+
+![Edit a profile details](../images/tutorials/add-nfc/add-nfc-8.jpg)
+
+If you wish to activate it now, press the **Activate for 0,99$** button.
+
+Payment will be done using your Apple app store account. Verify your order and click the **Purchase** button.
+
+![Edit a profile details](../images/tutorials/add-nfc/add-nfc-9.jpg)
+
+If the payment has been confirmed you will see the following message: 
+
+![Edit a profile details](../images/tutorials/add-nfc/add-nfc-10.jpg)
+
+And the following pop-up message will confirm your order:
+
+![Edit a profile details](../images/tutorials/add-nfc/add-nfc-11.jpg)
+
+Then you will be redirected to your profile and it will now display the NFC Tag you just connected to it with the folliwng details :
+
+- The type of your NFC Tag.(NA means this device has not been purchased from us so we dont know the device type)
+- The resseller name of your NFC Tag (Not Provided means we do not know the resseller name where you purchased the device)
+- The serial number of your NFC Tag
+- The activation date
+
+If you want to unlink this NFC Tag from your profile press the **Unlink from my account** button. You will be able to link this NFC tag again when you want it.
