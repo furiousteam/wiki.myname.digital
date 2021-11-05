@@ -61,6 +61,14 @@ Then you will be redirected to your profile and it will now display the NFC Tag 
 
 If you want to unlink this NFC Tag from your profile press the **Unlink from my account** button. You will be able to link this NFC tag again when you want it.
 
+### **Link an non original WeTaap NFC device** <a name="link-non-original-nfc-device"></a>
 
+If you bought a compatible NFC device not from WeTaap or not from one of our reseller the activation cost 1.29$ per device. One time only.
+
+- Find the NFC device and press the **Add NFC** button
+- Hold your iPhone near the original NFC tag to read the tag
+- The best location to place the NFC is on the back top of your iPhone. On the left side of the camera sensor.
+
+![Edit a profile details](../images/tutorials/add-nfc/add-nfc-4.jpg)
 
 
