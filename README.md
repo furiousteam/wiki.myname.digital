@@ -7,12 +7,6 @@
 
 This website is dedicated to provide support for the WeTaap mobile app.
 
-## Quick start
-
-```test
-test
-```
-
 ## Links
 
 - [Official Website : myname.digital]
@@ -47,6 +41,6 @@ WeTaap is powered by FuriousTeam & ITSKINS
 
 ## Video
 
-[![Coming Soon.](images/WHAT-IS-BLOC-YOUTUBE.jpg)](https://www.youtube.com/watch?v=uQekepZesE0)
+Video is coming soon
 
-![Eyecatch image of MkDocs Material Boilerplate (Starter Kit)](https://raw.githubusercontent.com/peaceiris/mkdocs-material-boilerplate/main/docs_sample/images/material.png)
+[![Coming Soon.](https://myname.digital/assets/img/logo/wetaap_logo_black.png)](https://www.youtube.com/watch?v=uQekepZesE0)
