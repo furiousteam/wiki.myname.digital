@@ -28,6 +28,12 @@ WeTaap is powered by FuriousTeam & ITSKINS
 - [Terms & Conditions](https://myname.digital/terms/terms-and-conditions)
 - [End-User Licence Agreement](https://myname.digital/terms/eula)
 
+## Video
+
+Video is coming soon
+
+[![Coming Soon.](https://myname.digital/assets/img/logo/wetaap_logo_black.png)](https://www.youtube.com/watch?v=uQekepZesE0)
+
 ## Licence & Release Status
 
 [![license](https://img.shields.io/github/license/furiousteam/wiki.myname.digital.svg)](https://github.com/furiousteam/wiki.myname.digital/blob/main/LICENSE)
@@ -38,9 +44,3 @@ WeTaap is powered by FuriousTeam & ITSKINS
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6eea5dbc-d2ce-44da-9a6a-cbe05b785e37/deploy-status)](https://app.netlify.com/sites/gifted-poincare-c9654e/deploys)
 
 <!-- https://shields.io/ -->
-
-## Video
-
-Video is coming soon
-
-[![Coming Soon.](https://myname.digital/assets/img/logo/wetaap_logo_black.png)](https://www.youtube.com/watch?v=uQekepZesE0)
