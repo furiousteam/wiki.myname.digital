@@ -19,7 +19,7 @@ This website is dedicated to provide support for the WeTaap mobile app.
 
 WeTaap is powered by FuriousTeam & ITSKINS
 
-- [FuriousTeam Homepage](https://peaceiris.com/)
+- [FuriousTeam Homepage](https://furiousteam.com/)
 - [ITSKINS Homepage](https://itskins.com/)
 
 ## Terms & Conditions
