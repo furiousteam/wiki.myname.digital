@@ -15,8 +15,11 @@ Once you have signed into your account you will see a new menu on the top left o
 ![Edit a profile details](../images/resseller/resseller-2.jpg)
 
 **#2**- This is your resseller name you provided to us when applying for resseller programm
+
 **#3**- The number of credits available on your resseller account. 1 credit = 1 NFC device activation
+
 **#4**- Select the device type you provided us to us when applying for resseller program. If you want to add more device into your resseller account simply [Contact us](../contact-us.md)
+
 **#5**- Click here to add device into your account so your customers can register it without paying extra fees
 
 - Find the NFC device you want to activate and press the **Add Device** button
