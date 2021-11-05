@@ -6,4 +6,4 @@ After you have contacted us and upgraded your WeTaap resseller into a resseller 
 
 Once you have signed into your account you will see a new menu on the top left of the app called **Admin**
 
-![Edit a profile details](../images/tutorials/edit-profile/edit-profile-2.jpg)
+![Edit a profile details](../images/resseller/resseller-1.jpg)
